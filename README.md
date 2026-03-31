@@ -1,8 +1,31 @@
-Sistema de IPTV em c++ Portfolio | Adiel Fontes
-Bem-vindo ao meu portfólio de projetos em c++
+# 🚀 FydelisTech IPTV System
 
-Projetos
-Fydelistech IPTV
+Sistema backend desenvolvido em C++ simulando uma plataforma de gerenciamento IPTV.
 
-Contato
-LinkedIn: (https://www.linkedin.com/in/adiel-fontes-896325274/)
+## 📌 Funcionalidades
+
+- Cadastro de usuários
+- Gerenciamento de planos (Free / Premium)
+- Listagem de canais
+- Estrutura modular em C++
+
+## 🛠️ Tecnologias
+
+- C++
+- Programação Orientada a Objetos (POO)
+- CMake
+
+## 📂 Arquitetura
+
+- `User` → gerenciamento de usuários
+- `Channel` → gerenciamento de canais
+- `Main` → controle do sistema
+
+## ▶️ Como executar
+
+```bash
+mkdir build
+cd build
+cmake ..
+make
+./fydelistech
