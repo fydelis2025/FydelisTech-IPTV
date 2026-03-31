@@ -29,3 +29,6 @@ cd build
 cmake ..
 make
 ./fydelistech
+
+## ▶️ Autor - Adiel Fontes
+LinkedIn: (https://www.linkedin.com/in/adiel-fontes-896325274/)
